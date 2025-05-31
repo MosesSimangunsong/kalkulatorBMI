@@ -26,3 +26,4 @@ print("Nilai BMI normal adalah 18.5 kg/m^2 - 25 kg/m^2")
 print (f"Berat badan ideal untuk anda adalah dalam rentang {berat_badan_ideal['bawah']:.2f} kg - {berat_badan_ideal['atas']:.2f} kg")
 
 print ("Terimakasih sudah menggunakan program ini :)")
+print ("Acumalaka wak wak wak")
